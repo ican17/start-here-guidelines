@@ -38,6 +38,10 @@
 
 - [@tewariyash](https://github.com/tewariyash/)
 
+- [@jgeo777](https://github.com/jgeo777/)
+
+- [@Shoaib-byte](https://github.com/Shoaib-byte/)
+
 - [@Ritikseth](https://github.com/Ritikseth/)
 
 - [@jgeo777](https://github.com/jgeo777/)
@@ -53,3 +57,5 @@
 - [@sabby993](https://github.com/sabby993)
 
 - [@ican17](https://github.com/ican17)
+
+- [@tanmay107](https://github.com/tanmay107)
